@@ -15,6 +15,10 @@ scoop install wezterm
 
 create `.config/wezterm/wezterm.lua` config file
 
+```bash
+cp -r .config/wezterm/ ~/.config/wezterm
+```
+
 install `starship`
 
 ```powershell
