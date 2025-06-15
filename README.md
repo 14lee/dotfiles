@@ -2,6 +2,19 @@
 
 # terminal settings
 
+install `wezterm` termninal emulator.
+
+```bash
+brew install --cask wezterm # macos
+
+sudo apt update & sudo apt install wezterm # linux
+
+scoop bucket add extras # window
+scoop install wezterm
+```
+
+create `.config/wezterm/wezterm.lua` config file
+
 install `starship`
 
 ```powershell
