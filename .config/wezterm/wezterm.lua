@@ -13,7 +13,7 @@ config.font = wezterm.font {
 }
 
 -- color scheme
-config.color_scheme = "Catppuccin Mocha"
+config.color_scheme = 'Catppuccin Frappe'
 
 -- gpu
 config.front_end = 'WebGpu'
@@ -30,6 +30,8 @@ config.window_background_opacity = 0.8
 config.macos_window_background_blur = 15
 config.text_background_opacity = 0.9
 config.adjust_window_size_when_changing_font_size = false
+config.initial_rows = 30
+config.initial_cols = 100
 
 -- cursor
 config.default_cursor_style = "BlinkingBar"
