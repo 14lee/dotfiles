@@ -32,7 +32,7 @@ apt install starship // ubuntu/debain
 
 install `Nerd Font`
 
-[firaMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraMono.zip)
+[Maple Mono NF CN](https://font.subf.dev/zh-cn/download/) | [firaMono](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraMono.zip)
 
 create `starship.toml` file.
 
